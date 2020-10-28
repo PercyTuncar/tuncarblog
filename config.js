@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Percy Tuncar | Blog',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  copyright: '© Todos los derechos reservados.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Percy Tuncar',
+    photo: '/profileCropped.jpg',
+    bio: 'Adicto al café y amante de las buenas historias 🇵🇪',
     contacts: {
       email: '',
       facebook: '#',
